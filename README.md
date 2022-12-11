@@ -20,3 +20,4 @@ B. Introduction to SQL - Part 02
 C. Introduction to SQL - Part 03
 1. Data Definition Language (DDL)
 2. Extract Transform Load (ETL)
+3. Assignment
